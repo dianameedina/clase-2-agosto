@@ -6,4 +6,4 @@ El objetivo del proyecto es evaluar el control de calidad de las muestra ana胠iz
 [2] Estoy haciendo otra cosa 胮ara ver si se guardan los cambios
 [3] sigo agregando cosas para ver cambios 
 [4] 驴Como va tu proyecto ? 
-[5] Aportaci贸n Aar贸n 
+[5] Aportaci贸n Aar贸n. 
